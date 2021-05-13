@@ -1,8 +1,6 @@
 ### Hi there, I am Yohan 👋
 
 
-
-<br />
 ### I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
 
 - 🎓 I'm a final-year undergraduate at [Sabaragamuwa University of Sri Lanka][uni]
