@@ -9,13 +9,13 @@
 - 👯 I’m looking to collaborate with people who willing to do something amazing and cool.
 - 🎯 2021 Goals: Complete my final year university research and studies successfully.
 - 😜 Fun fact: I love to travel, listen music, watch movies and play video games.
-- 📫 Reach me: [@Yohan Malshika](https://yohanym95.github.io/)
 
 ### Connect with me:
 
 [<img align="left" alt="Yohan Malshika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Yohan Malshika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Yohan Malshika | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[@Yohan Malshika](https://yohanym95.github.io/)
 
 <br/>
 <!--
