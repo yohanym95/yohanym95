@@ -7,7 +7,7 @@
 - 💻 As a developer, I'm passionate about ASP.NET Core and Flutter.
 - 📚 I’m currently learning all the technical stuff related to ASP.NET Core & Flutter.
 - 👯 I’m looking to collaborate with people who willing to do something amazing and cool.
-- 🎯 2021 Goals: Complete my final year university research and studies successfully.
+<!-- - 🎯 2021 Goals: Complete my final year university research and studies successfully. -->
 - 😜 Fun fact: I love to travel, listen music, watch movies and play video games.
 
 ### Connect with me:
