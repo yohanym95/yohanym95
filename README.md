@@ -28,9 +28,9 @@
 
 ➡️ &ensp;[more...](https://malshikay.medium.com/)
 
-<img align="left" alt="Yohanym95's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yohanym95&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
+<!-- <img align="left" alt="Yohanym95's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yohanym95&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
 
-<br/>
+<br/> -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312y2d2r4ldsjnq3hkn2tq6hg6oa&count=1)
 
