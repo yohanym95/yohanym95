@@ -41,8 +41,8 @@
 
 <!--  [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah) -->
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312y2d2r4ldsjnq3hkn2tq6hg6oa&count=1)
+<!-- 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312y2d2r4ldsjnq3hkn2tq6hg6oa&count=1) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanym95&langs_count=8&hide=scss,less,hack)](https://github.com/anuraghazra/github-readme-stats) -->
 
