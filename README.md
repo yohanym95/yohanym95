@@ -3,8 +3,8 @@
 
 ## I'm a Student, Developer, and Tech Enthusiast from Sri Lanka. 🇱🇰
 
-- 🎓 I'm a final-year undergraduate at [Sabaragamuwa University of Sri Lanka][uni]
-- 📚 I’m currently learning all the technical stuff related to ASP.NET Core & Flutter.
+- 🎓 I'm a Software Engineer @ Aizenit.
+- 📚 I’m familiar with ASP.NET Core, C#, Python, Azure, Docker and Kubernetes stuff.
 - 👯 I’m looking to collaborate with people who willing to do something amazing and cool.
 - 😜 Fun fact: I love to travel, listen music, watch movies and play video games.
 <!-- - 🎯 2021 Goals: Complete my final year university research and studies successfully. -->
